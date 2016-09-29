@@ -11,4 +11,5 @@ Angularjs 资源
 - <a href="http://www.cnblogs.com/cunjieliu/category/568601.html">angular 指令分析---雷锋叔叔</a>
 - <a href="http://www.cnblogs.com/lvdabao/tag/AngularJs/">angular 指令分析---吕大豹</a>
 - <a href="http://www.cnblogs.com/whitewolf/category/404298.html">angular 系列---破狼</a>
+- <a href="https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md">编码规范</a>
 
